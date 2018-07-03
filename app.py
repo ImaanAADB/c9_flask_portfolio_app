@@ -86,7 +86,7 @@ def python_apps_page():
 
 
 @app.route('/Interests')
-def python_apps_page():
+def Interests_page():
 	# testing stuff
 	return render_template('Interests.html')
 
